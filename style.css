@@ -1,0 +1,54 @@
+.dolar{
+    color: #FF136F;
+}
+.container{
+    margin-bottom: 150px;
+}
+.button{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.align-items-center{
+    background-color:rgba(188, 143, 143, 0.466) ;
+    padding: 40px 30px;
+}
+.fentasy{
+    background-color: orange;
+}
+.cat1{
+    background-color: peru;
+}
+.cat2{
+    background-color: purple;
+}
+.cat3{
+    background-color: blue;
+}
+.cat1, .cat2, .cat3{
+    padding: 28px;
+    border-radius: 8px;
+}
+.card {
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+.col-12{
+    background-color:rgba(188, 143, 143, 0.466) ;
+    width: 500px;
+    height: 350px;
+    text-align: center;
+    padding: 100px 50px;
+}
+.input{
+    width: 250px;
+    height: 40px;
+    border-radius: 2px;
+}
+footer{
+    text-align: center;
+}
